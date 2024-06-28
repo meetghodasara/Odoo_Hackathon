@@ -1,2 +1,2 @@
 # Odoo_Hackathon
-Odoo combat hackaton project.
+Odoo combat hackathon project.
